@@ -1,0 +1,1 @@
+encounter_random=true;//设置怪物遭遇
